@@ -26,7 +26,9 @@ Crie um novo branch (git checkout -b feature/nova-funcionalidade).
 Faça suas modificações e commit (git commit -am 'Adicionando nova funcionalidade').
 Push para o branch (git push origin feature/nova-funcionalidade).
 Crie um novo Pull Request.
+
 Link de Deploy:
+
 https://calculadora-three-neon.vercel.app/
 
 Autor:
